@@ -1,0 +1,1726 @@
+{
+  "project_start": "2025-05-14",
+  "tasks": {
+    "01#": {
+      "start_date": "2026-05-14",
+      "predecesoras": "",
+      "duration_days": 500.0,
+      "dias_lab": 500
+    },
+    "01.01": {
+      "start_date": "2025-05-14",
+      "predecesoras": "",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 20.0,
+      "dias_lab": 20
+    },
+    "01.02": {
+      "start_date": "2025-06-11",
+      "predecesoras": "01.01",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.03": {
+      "start_date": "2025-06-12",
+      "predecesoras": "01.02",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.04": {
+      "start_date": "2025-06-16",
+      "predecesoras": "01.03",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.05": {
+      "start_date": "2025-06-18",
+      "predecesoras": "01.04",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.06": {
+      "start_date": "2025-06-19",
+      "predecesoras": "01.05",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.07": {
+      "start_date": "2025-06-20",
+      "predecesoras": "01.06",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.08": {
+      "start_date": "2025-06-23",
+      "predecesoras": "01.07",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.09": {
+      "start_date": "2025-06-24",
+      "predecesoras": "01.08",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.10": {
+      "start_date": "2025-06-25",
+      "predecesoras": "01.09",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.11": {
+      "start_date": "2025-06-27",
+      "predecesoras": "01.10",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 17.0,
+      "dias_lab": 17
+    },
+    "01.12": {
+      "start_date": "2025-07-22",
+      "predecesoras": "01.11",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "01.13": {
+      "start_date": "2025-07-25",
+      "predecesoras": "01.12",
+      "rendimiento": 35.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.14": {
+      "start_date": "2025-07-28",
+      "predecesoras": "01.13",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "01.15": {
+      "start_date": "2025-07-31",
+      "predecesoras": "01.14",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.16": {
+      "start_date": "2025-08-04",
+      "predecesoras": "01.15",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 5.0,
+      "dias_lab": 5
+    },
+    "01.17": {
+      "start_date": "2025-08-11",
+      "predecesoras": "01.16",
+      "rendimiento": 12.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.18": {
+      "start_date": "2025-08-13",
+      "predecesoras": "01.17",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.19": {
+      "start_date": "2025-08-14",
+      "predecesoras": "01.18",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.20": {
+      "start_date": "2025-08-15",
+      "predecesoras": "01.19",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.21": {
+      "start_date": "2025-08-18",
+      "predecesoras": "01.20",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.22": {
+      "start_date": "2025-08-19",
+      "predecesoras": "01.21",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.23": {
+      "start_date": "2025-08-20",
+      "predecesoras": "01.22",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.24": {
+      "start_date": "2025-08-21",
+      "predecesoras": "01.23",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.25": {
+      "start_date": "2025-08-22",
+      "predecesoras": "01.24",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.26": {
+      "start_date": "2025-08-25",
+      "predecesoras": "01.25",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.27": {
+      "start_date": "2025-08-26",
+      "predecesoras": "01.26",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.28": {
+      "start_date": "2025-08-28",
+      "predecesoras": "01.27",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 10.0,
+      "dias_lab": 10
+    },
+    "01.29": {
+      "start_date": "2025-09-11",
+      "predecesoras": "01.28",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 61.0,
+      "dias_lab": 61
+    },
+    "01.30": {
+      "start_date": "2025-12-05",
+      "predecesoras": "01.29",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "01.31": {
+      "start_date": "2025-12-10",
+      "predecesoras": "01.30",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "01.32": {
+      "start_date": "2025-12-15",
+      "predecesoras": "01.31",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.33": {
+      "start_date": "2025-12-17",
+      "predecesoras": "01.32",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.34": {
+      "start_date": "2025-12-19",
+      "predecesoras": "01.33",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 58.0,
+      "dias_lab": 58
+    },
+    "01.35": {
+      "start_date": "2026-03-11",
+      "predecesoras": "01.34",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 58.0,
+      "dias_lab": 58
+    },
+    "01.36": {
+      "start_date": "2026-06-01",
+      "predecesoras": "01.35",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 5.0,
+      "dias_lab": 5
+    },
+    "01.37": {
+      "start_date": "2026-06-08",
+      "predecesoras": "01.36",
+      "rendimiento": 12.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.38": {
+      "start_date": "2026-06-10",
+      "predecesoras": "01.37",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.39": {
+      "start_date": "2026-06-11",
+      "predecesoras": "01.38",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.40": {
+      "start_date": "2026-06-12",
+      "predecesoras": "01.39",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.41": {
+      "start_date": "2026-06-15",
+      "predecesoras": "01.40",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.42": {
+      "start_date": "2026-06-16",
+      "predecesoras": "01.41",
+      "rendimiento": 12.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "01.43": {
+      "start_date": "2026-06-18",
+      "predecesoras": "01.42",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "01.44": {
+      "start_date": "2026-06-19",
+      "predecesoras": "01.43",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "02#": {
+      "start_date": "2026-07-15",
+      "predecesoras": "",
+      "duration_days": 13.0,
+      "dias_lab": 13
+    },
+    "02.01": {
+      "start_date": "2026-06-22",
+      "predecesoras": "01.44",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "02.02": {
+      "start_date": "2026-06-23",
+      "predecesoras": "02.01",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "02.03": {
+      "start_date": "2026-06-25",
+      "predecesoras": "02.02",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "02.04": {
+      "start_date": "2026-06-29",
+      "predecesoras": "02.03",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "02.05": {
+      "start_date": "2026-07-01",
+      "predecesoras": "02.04",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "02.06": {
+      "start_date": "2026-07-02",
+      "predecesoras": "02.05",
+      "rendimiento": 12.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "02.07": {
+      "start_date": "2026-07-06",
+      "predecesoras": "02.06",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 6.0,
+      "dias_lab": 6
+    },
+    "02.08": {
+      "start_date": "2026-07-14",
+      "predecesoras": "02.07",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "02.09": {
+      "start_date": "2026-07-17",
+      "predecesoras": "02.08",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "02.10": {
+      "start_date": "2026-07-20",
+      "predecesoras": "02.09",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "02.11": {
+      "start_date": "2026-07-22",
+      "predecesoras": "02.10",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "02.12": {
+      "start_date": "2026-07-24",
+      "predecesoras": "02.11",
+      "rendimiento": 40.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "02.13": {
+      "start_date": "2026-07-27",
+      "predecesoras": "02.12",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "03#": {
+      "start_date": "2026-08-03",
+      "predecesoras": "",
+      "duration_days": 19.0,
+      "dias_lab": 19
+    },
+    "03.01": {
+      "start_date": "2026-07-28",
+      "predecesoras": "02.13",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 5.0,
+      "dias_lab": 5
+    },
+    "03.02": {
+      "start_date": "2026-08-04",
+      "predecesoras": "03.01",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "03.03": {
+      "start_date": "2026-08-05",
+      "predecesoras": "03.02",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "03.04": {
+      "start_date": "2026-08-07",
+      "predecesoras": "03.03",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 7.0,
+      "dias_lab": 7
+    },
+    "03.05": {
+      "start_date": "2026-08-18",
+      "predecesoras": "03.04",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 23.0,
+      "dias_lab": 23
+    },
+    "03.06": {
+      "start_date": "2026-09-18",
+      "predecesoras": "03.05",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 12.0,
+      "dias_lab": 12
+    },
+    "03.07": {
+      "start_date": "2026-10-06",
+      "predecesoras": "03.06",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 7.0,
+      "dias_lab": 7
+    },
+    "03.08": {
+      "start_date": "2026-10-15",
+      "predecesoras": "03.07",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 5.0,
+      "dias_lab": 5
+    },
+    "03.09": {
+      "start_date": "2026-10-22",
+      "predecesoras": "03.08",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 5.0,
+      "dias_lab": 5
+    },
+    "03.10": {
+      "start_date": "2026-10-29",
+      "predecesoras": "03.09",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 7.0,
+      "dias_lab": 7
+    },
+    "03.11": {
+      "start_date": "2026-11-09",
+      "predecesoras": "03.10",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 21.0,
+      "dias_lab": 21
+    },
+    "03.12": {
+      "start_date": "2026-12-08",
+      "predecesoras": "03.11",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "03.13": {
+      "start_date": "2026-12-09",
+      "predecesoras": "03.12",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "03.14": {
+      "start_date": "2026-12-11",
+      "predecesoras": "03.13",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "03.15": {
+      "start_date": "2026-12-14",
+      "predecesoras": "03.14",
+      "rendimiento": 35.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "03.16": {
+      "start_date": "2026-12-15",
+      "predecesoras": "03.15",
+      "rendimiento": 35.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "03.17": {
+      "start_date": "2026-12-16",
+      "predecesoras": "03.16",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 48.0,
+      "dias_lab": 48
+    },
+    "03.18": {
+      "start_date": "2027-02-22",
+      "predecesoras": "03.17",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "03.19": {
+      "start_date": "2027-02-23",
+      "predecesoras": "03.18",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "04#": {
+      "start_date": "2026-08-28",
+      "predecesoras": "",
+      "duration_days": 6.0,
+      "dias_lab": 6
+    },
+    "04.01": {
+      "start_date": "2027-02-12",
+      "predecesoras": "03.19",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "04.02": {
+      "start_date": "2027-02-17",
+      "predecesoras": "04.01",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "04.03": {
+      "start_date": "2027-02-18",
+      "predecesoras": "04.02",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "04.04": {
+      "start_date": "2027-02-19",
+      "predecesoras": "04.03",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "04.05": {
+      "start_date": "2027-02-22",
+      "predecesoras": "04.04",
+      "rendimiento": 35.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "04.06": {
+      "start_date": "2027-02-23",
+      "predecesoras": "04.05",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "05#": {
+      "start_date": "2026-09-07",
+      "predecesoras": "",
+      "duration_days": 20.0,
+      "dias_lab": 20
+    },
+    "05.01": {
+      "start_date": "2027-02-24",
+      "predecesoras": "04.06",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "05.02": {
+      "start_date": "2027-02-25",
+      "predecesoras": "05.01",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 5.0,
+      "dias_lab": 5
+    },
+    "05.03": {
+      "start_date": "2027-03-04",
+      "predecesoras": "05.02",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "05.04": {
+      "start_date": "2027-03-08",
+      "predecesoras": "05.03",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "05.05": {
+      "start_date": "2027-03-10",
+      "predecesoras": "05.04",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "05.06": {
+      "start_date": "2027-03-12",
+      "predecesoras": "05.05",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 6.0,
+      "dias_lab": 6
+    },
+    "05.07": {
+      "start_date": "2027-03-22",
+      "predecesoras": "05.06",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "05.08": {
+      "start_date": "2027-03-23",
+      "predecesoras": "05.07",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "05.09": {
+      "start_date": "2027-03-24",
+      "predecesoras": "05.08",
+      "rendimiento": 35.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "05.10": {
+      "start_date": "2027-03-26",
+      "predecesoras": "05.09",
+      "rendimiento": 35.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "05.11": {
+      "start_date": "2027-03-29",
+      "predecesoras": "05.10",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "05.12": {
+      "start_date": "2027-04-01",
+      "predecesoras": "05.11",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 5.0,
+      "dias_lab": 5
+    },
+    "05.13": {
+      "start_date": "2027-04-08",
+      "predecesoras": "05.12",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "05.14": {
+      "start_date": "2027-04-09",
+      "predecesoras": "05.13",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "05.15": {
+      "start_date": "2027-04-12",
+      "predecesoras": "05.14",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "05.16": {
+      "start_date": "2027-04-13",
+      "predecesoras": "05.15",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 4.0,
+      "dias_lab": 4
+    },
+    "05.17": {
+      "start_date": "2027-04-19",
+      "predecesoras": "05.16",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 4.0,
+      "dias_lab": 4
+    },
+    "05.18": {
+      "start_date": "2027-04-23",
+      "predecesoras": "05.17",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 4.0,
+      "dias_lab": 4
+    },
+    "05.19": {
+      "start_date": "2027-04-29",
+      "predecesoras": "05.18",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "05.20": {
+      "start_date": "2027-04-30",
+      "predecesoras": "05.19",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "06#": {
+      "start_date": "2026-10-05",
+      "predecesoras": "",
+      "duration_days": 46.0,
+      "dias_lab": 46
+    },
+    "06.01": {
+      "start_date": "2027-05-05",
+      "predecesoras": "05.20",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.02": {
+      "start_date": "2027-05-06",
+      "predecesoras": "06.01",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "06.03": {
+      "start_date": "2027-05-11",
+      "predecesoras": "06.02",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.04": {
+      "start_date": "2027-05-12",
+      "predecesoras": "06.03",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.05": {
+      "start_date": "2027-05-13",
+      "predecesoras": "06.04",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.06": {
+      "start_date": "2027-05-14",
+      "predecesoras": "06.05",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.07": {
+      "start_date": "2027-05-17",
+      "predecesoras": "06.06",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.08": {
+      "start_date": "2027-05-18",
+      "predecesoras": "06.07",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.09": {
+      "start_date": "2027-05-19",
+      "predecesoras": "06.08",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.10": {
+      "start_date": "2027-05-20",
+      "predecesoras": "06.09",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.11": {
+      "start_date": "2027-05-21",
+      "predecesoras": "06.10",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "06.12": {
+      "start_date": "2027-05-26",
+      "predecesoras": "06.11",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.13": {
+      "start_date": "2027-05-27",
+      "predecesoras": "06.12",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "06.14": {
+      "start_date": "2027-05-31",
+      "predecesoras": "06.13",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 4.0,
+      "dias_lab": 4
+    },
+    "06.15": {
+      "start_date": "2027-06-04",
+      "predecesoras": "06.14",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "06.16": {
+      "start_date": "2027-06-09",
+      "predecesoras": "06.15",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.17": {
+      "start_date": "2027-06-10",
+      "predecesoras": "06.16",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.18": {
+      "start_date": "2027-06-11",
+      "predecesoras": "06.17",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "06.19": {
+      "start_date": "2027-06-15",
+      "predecesoras": "06.18",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.20": {
+      "start_date": "2027-06-16",
+      "predecesoras": "06.19",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.21": {
+      "start_date": "2027-06-17",
+      "predecesoras": "06.20",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.22": {
+      "start_date": "2027-06-18",
+      "predecesoras": "06.21",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.23": {
+      "start_date": "2027-06-21",
+      "predecesoras": "06.22",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.24": {
+      "start_date": "2027-06-22",
+      "predecesoras": "06.23",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.25": {
+      "start_date": "2027-06-23",
+      "predecesoras": "06.24",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "06.26": {
+      "start_date": "2027-06-28",
+      "predecesoras": "06.25",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.27": {
+      "start_date": "2027-06-29",
+      "predecesoras": "06.26",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.28": {
+      "start_date": "2027-06-30",
+      "predecesoras": "06.27",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.29": {
+      "start_date": "2027-07-01",
+      "predecesoras": "06.28",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.30": {
+      "start_date": "2027-07-02",
+      "predecesoras": "06.29",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.31": {
+      "start_date": "2027-07-05",
+      "predecesoras": "06.30",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.32": {
+      "start_date": "2027-07-06",
+      "predecesoras": "06.31",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.33": {
+      "start_date": "2027-07-07",
+      "predecesoras": "06.32",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.34": {
+      "start_date": "2027-07-08",
+      "predecesoras": "06.33",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "06.35": {
+      "start_date": "2027-07-12",
+      "predecesoras": "06.34",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.36": {
+      "start_date": "2027-07-13",
+      "predecesoras": "06.35",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.37": {
+      "start_date": "2027-07-14",
+      "predecesoras": "06.36",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.38": {
+      "start_date": "2027-07-15",
+      "predecesoras": "06.37",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.39": {
+      "start_date": "2027-07-16",
+      "predecesoras": "06.38",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.40": {
+      "start_date": "2027-07-19",
+      "predecesoras": "06.39",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.41": {
+      "start_date": "2027-07-20",
+      "predecesoras": "06.40",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.42": {
+      "start_date": "2027-07-21",
+      "predecesoras": "06.41",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.43": {
+      "start_date": "2027-07-22",
+      "predecesoras": "06.42",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.44": {
+      "start_date": "2027-07-23",
+      "predecesoras": "06.43",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.45": {
+      "start_date": "2027-07-26",
+      "predecesoras": "06.44",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "06.46": {
+      "start_date": "2027-07-27",
+      "predecesoras": "06.45",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "07#": {
+      "start_date": "2026-05-14",
+      "predecesoras": "",
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "08#": {
+      "start_date": "2026-05-14",
+      "predecesoras": "",
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "09#": {
+      "start_date": "2026-05-14",
+      "predecesoras": "",
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "10#": {
+      "start_date": "2026-05-14",
+      "predecesoras": "",
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "11#": {
+      "start_date": "2026-12-08",
+      "predecesoras": "",
+      "duration_days": 21.0,
+      "dias_lab": 21
+    },
+    "11.01": {
+      "start_date": "2027-07-28",
+      "predecesoras": "06.46",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 20.0,
+      "dias_lab": 20
+    },
+    "11.02": {
+      "start_date": "2027-08-25",
+      "predecesoras": "11.01",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "11.03": {
+      "start_date": "2027-08-27",
+      "predecesoras": "11.02",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 46.0,
+      "dias_lab": 46
+    },
+    "11.04": {
+      "start_date": "2027-11-01",
+      "predecesoras": "11.03",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 34.0,
+      "dias_lab": 34
+    },
+    "11.05": {
+      "start_date": "2027-12-17",
+      "predecesoras": "11.04",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 30.0,
+      "dias_lab": 30
+    },
+    "11.06": {
+      "start_date": "2028-01-28",
+      "predecesoras": "11.05",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 118.0,
+      "dias_lab": 118
+    },
+    "11.07": {
+      "start_date": "2028-07-12",
+      "predecesoras": "11.06",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 20.0,
+      "dias_lab": 20
+    },
+    "11.08": {
+      "start_date": "2028-08-09",
+      "predecesoras": "11.07",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "11.09": {
+      "start_date": "2028-08-11",
+      "predecesoras": "11.08",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 17.0,
+      "dias_lab": 17
+    },
+    "11.10": {
+      "start_date": "2028-09-05",
+      "predecesoras": "11.09",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "11.11": {
+      "start_date": "2028-09-08",
+      "predecesoras": "11.10",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 27.0,
+      "dias_lab": 27
+    },
+    "11.12": {
+      "start_date": "2028-10-17",
+      "predecesoras": "11.11",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "11.13": {
+      "start_date": "2028-10-18",
+      "predecesoras": "11.12",
+      "rendimiento": 40.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "11.14": {
+      "start_date": "2028-10-23",
+      "predecesoras": "11.13",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "11.15": {
+      "start_date": "2028-10-24",
+      "predecesoras": "11.14",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "11.16": {
+      "start_date": "2028-10-26",
+      "predecesoras": "11.15",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "11.17": {
+      "start_date": "2028-10-27",
+      "predecesoras": "11.16",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "11.18": {
+      "start_date": "2028-10-30",
+      "predecesoras": "11.17",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 44.0,
+      "dias_lab": 44
+    },
+    "11.19": {
+      "start_date": "2028-12-29",
+      "predecesoras": "11.18",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 44.0,
+      "dias_lab": 44
+    },
+    "11.20": {
+      "start_date": "2029-03-01",
+      "predecesoras": "11.19",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "11.21": {
+      "start_date": "2029-03-05",
+      "predecesoras": "11.20",
+      "rendimiento": 25.0,
+      "cuadrilla": 3.0,
+      "duration_days": 48.0,
+      "dias_lab": 48
+    },
+    "12#": {
+      "start_date": "2027-01-06",
+      "predecesoras": "",
+      "duration_days": 10.0,
+      "dias_lab": 10
+    },
+    "12.01": {
+      "start_date": "2029-05-10",
+      "predecesoras": "11.21",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "12.02": {
+      "start_date": "2029-05-11",
+      "predecesoras": "12.01",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "12.03": {
+      "start_date": "2029-05-16",
+      "predecesoras": "12.02",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 4.0,
+      "dias_lab": 4
+    },
+    "12.04": {
+      "start_date": "2029-05-22",
+      "predecesoras": "12.03",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 4.0,
+      "dias_lab": 4
+    },
+    "12.05": {
+      "start_date": "2029-05-28",
+      "predecesoras": "12.04",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 4.0,
+      "dias_lab": 4
+    },
+    "12.06": {
+      "start_date": "2029-06-01",
+      "predecesoras": "12.05",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 4.0,
+      "dias_lab": 4
+    },
+    "12.07": {
+      "start_date": "2029-06-07",
+      "predecesoras": "12.06",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "12.08": {
+      "start_date": "2029-06-08",
+      "predecesoras": "12.07",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "12.09": {
+      "start_date": "2029-06-11",
+      "predecesoras": "12.08",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "12.10": {
+      "start_date": "2029-06-13",
+      "predecesoras": "12.09",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "13#": {
+      "start_date": "2027-01-20",
+      "predecesoras": "",
+      "duration_days": 9.0,
+      "dias_lab": 9
+    },
+    "13.01": {
+      "start_date": "2029-06-15",
+      "predecesoras": "12.10",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "13.02": {
+      "start_date": "2029-06-18",
+      "predecesoras": "13.01",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "13.03": {
+      "start_date": "2029-06-19",
+      "predecesoras": "13.02",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "13.04": {
+      "start_date": "2029-06-20",
+      "predecesoras": "13.03",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "13.05": {
+      "start_date": "2029-06-21",
+      "predecesoras": "13.04",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "13.06": {
+      "start_date": "2029-06-22",
+      "predecesoras": "13.05",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "13.07": {
+      "start_date": "2029-06-25",
+      "predecesoras": "13.06",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "13.08": {
+      "start_date": "2029-06-26",
+      "predecesoras": "13.07",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "13.09": {
+      "start_date": "2029-06-27",
+      "predecesoras": "13.08",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "14#": {
+      "start_date": "2027-02-02",
+      "predecesoras": "",
+      "duration_days": 3.0,
+      "dias_lab": 3
+    },
+    "14.01": {
+      "start_date": "2029-06-28",
+      "predecesoras": "13.09",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "14.02": {
+      "start_date": "2029-07-02",
+      "predecesoras": "14.01",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "14.03": {
+      "start_date": "2029-07-04",
+      "predecesoras": "14.02",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "15#": {
+      "start_date": "2027-02-05",
+      "predecesoras": "",
+      "duration_days": 5.0,
+      "dias_lab": 5
+    },
+    "15.01": {
+      "start_date": "2029-07-06",
+      "predecesoras": "14.03",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "15.02": {
+      "start_date": "2029-07-09",
+      "predecesoras": "15.01",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "15.03": {
+      "start_date": "2029-07-10",
+      "predecesoras": "15.02",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "15.04": {
+      "start_date": "2029-07-11",
+      "predecesoras": "15.03",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "15.05": {
+      "start_date": "2029-07-12",
+      "predecesoras": "15.04",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 2.0,
+      "dias_lab": 2
+    },
+    "16#": {
+      "start_date": "2027-02-12",
+      "predecesoras": "",
+      "duration_days": 7.0,
+      "dias_lab": 7
+    },
+    "16.01": {
+      "start_date": "2029-07-16",
+      "predecesoras": "15.05",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "16.02": {
+      "start_date": "2029-07-17",
+      "predecesoras": "16.01",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "16.03": {
+      "start_date": "2029-07-18",
+      "predecesoras": "16.02",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "16.04": {
+      "start_date": "2029-07-19",
+      "predecesoras": "16.03",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "16.05": {
+      "start_date": "2029-07-20",
+      "predecesoras": "16.04",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "16.06": {
+      "start_date": "2029-07-23",
+      "predecesoras": "16.05",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    },
+    "16.07": {
+      "start_date": "2029-07-24",
+      "predecesoras": "16.06",
+      "rendimiento": 8.0,
+      "cuadrilla": 3.0,
+      "duration_days": 1.0,
+      "dias_lab": 1
+    }
+  },
+  "default_cuadrilla": 3.0
+}
